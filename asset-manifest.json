@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Faizan-Khalid-Mohsin-Personal-Website-React.js/static/css/main.5c13e096.css",
+    "main.js": "/Faizan-Khalid-Mohsin-Personal-Website-React.js/static/js/main.626aa4cd.js",
+    "static/js/787.68b3d4c6.chunk.js": "/Faizan-Khalid-Mohsin-Personal-Website-React.js/static/js/787.68b3d4c6.chunk.js",
+    "index.html": "/Faizan-Khalid-Mohsin-Personal-Website-React.js/index.html",
+    "main.5c13e096.css.map": "/Faizan-Khalid-Mohsin-Personal-Website-React.js/static/css/main.5c13e096.css.map",
+    "main.626aa4cd.js.map": "/Faizan-Khalid-Mohsin-Personal-Website-React.js/static/js/main.626aa4cd.js.map",
+    "787.68b3d4c6.chunk.js.map": "/Faizan-Khalid-Mohsin-Personal-Website-React.js/static/js/787.68b3d4c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c13e096.css",
+    "static/js/main.626aa4cd.js"
+  ]
+}
